@@ -1,22 +1,15 @@
-/* ----------------- */
-/* --RESET STYLES--- */
-/* ----------------- */
+
 @import url("reset.css");
-/* ----------------- */
-/* ---FOR EXAMPLE--- */
-/* ----------------- */
+
 body {
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	color: #fff;
-	background-color: #262c37;
+	background-color: #333a47e4;
 }
-/* ------------------ */
+
 .wrapper {
 	padding: 50px 15px;
 }
-/* ----------------- */
-/* ---MAIN STYLES--- */
-/* ----------------- */
 
 .swiper {
 	max-width: 50rem;
